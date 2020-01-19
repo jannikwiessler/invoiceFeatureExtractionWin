@@ -1,0 +1,12 @@
+issuer:
+- 'ich'
+fields:
+- amount_sum: '5\s*64'
+- amount_net: '45\s*4'
+- date_order: '546\s*546'
+- date_service: '45\s*456'
+- invoice_number: '456\s*46'
+keywords:
+- 'jsjd'
+- 'jösad'
+- '465'
