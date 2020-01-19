@@ -1,0 +1,47 @@
+pyinstaller test.py --noconsole
+pyinstaller test.py --windowed // for mac and wxpython
+
+
+iMac: cd Dropbox/00_Projects/40_PDF_extract/030_mysoftware/
+Mac book: cd /Users/jannik/Dropbox/00_Projects/40_PDF_extract/030_mysoftware/
+
+Terminal: pythonw Gui_wx.py
+
+
+
+
+-----------------------
+To Do:
+
+info: templates for all invoices found (confiedce?)
+if not: list of invoices no corresponding template is found
+
+option in menu bar
+user can see the pair of templates and invoices.
+
+
+GUI (creates spec data (*.txt) with paths in it):
+
+GUI_wx.py <- invoiceFrame <- invoicePanel (all buttons on it)
+------------------------------------------
+engine (reads spec data and do the work):
+
+runEngine:
+-> engine_preprocess
+-> engine_main
+
+
+
+
+-----------------------------------------------------------------------------
+Build App (Gui & Engine): (So far developed and tested on Mac OS - no windows)
+Engine: pyinstaller runEngine.py --windowed --onefile (complete build up takes about >5min)
+GUI:	pyinstaller Gui_wx.py --onefile --windowed (complete build up takes about <1min)
+
+The following data have to be copied in App->Contents->MacOS
+- gs
+- magisch
+- tesseract
+- runEngine
+- templates (folder containing the tamplates)
+-----------------------------------------------------------------------------

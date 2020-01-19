@@ -1,0 +1,501 @@
+2020-01-08 10:07:36,283 root runEngine: engine started successfully
+2020-01-08 10:07:36,290 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:07:36,292 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:07:36,304 root runEngine: starting engine_preprocess
+2020-01-08 10:07:36,332 root runEngine: engine_preprocess completed
+2020-01-08 10:07:36,334 root runEngine: starting engine_main
+2020-01-08 10:07:36,842 root egine_main: invoice is pdf
+2020-01-08 10:07:36,844 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-2.pdf
+2020-01-08 10:07:37,483 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:07:38,179 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:07:40,194 root tesseract4: starting subprocess p1
+2020-01-08 10:07:40,225 root tesseract4: starting subprocess p2
+2020-01-08 10:07:40,261 root tesseract4: starting communication p2
+2020-01-08 10:08:16,674 root extract_mydata_pdf: extracting complete
+2020-01-08 10:08:16,675 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:08:16,676 root egine_main: starting get_invoicedata
+2020-01-08 10:08:19,590 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:09:26,519 root egine_main: data != None
+2020-01-08 10:09:26,521 root egine_main: get_invoicedata completed
+2020-01-08 10:09:26,522 root egine_main: starting xlsWriting
+2020-01-08 10:09:26,856 root egine_main: reading completed
+2020-01-08 10:09:31,936 root egine_main: adding data completed
+2020-01-08 10:09:34,031 root egine_main: xlsWriting completed
+2020-01-08 10:09:34,031 root runEngine: engine_main completed
+2020-01-08 10:13:49,969 root runEngine: engine started successfully
+2020-01-08 10:13:49,973 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:13:49,974 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:13:49,985 root runEngine: starting engine_preprocess
+2020-01-08 10:13:50,006 root runEngine: engine_preprocess completed
+2020-01-08 10:13:50,006 root runEngine: starting engine_main
+2020-01-08 10:13:51,275 root egine_main: invoice is pdf
+2020-01-08 10:13:51,276 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:13:52,005 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:13:52,698 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:13:54,816 root tesseract4: starting subprocess p1
+2020-01-08 10:13:54,843 root tesseract4: starting subprocess p2
+2020-01-08 10:13:54,881 root tesseract4: starting communication p2
+2020-01-08 10:14:46,882 root extract_mydata_pdf: extracting complete
+2020-01-08 10:14:46,883 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:14:46,883 root egine_main: starting get_invoicedata
+2020-01-08 10:14:48,124 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:22:54,279 root runEngine: engine started successfully
+2020-01-08 10:22:54,287 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:22:54,290 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:22:54,301 root runEngine: starting engine_preprocess
+2020-01-08 10:22:54,329 root runEngine: engine_preprocess completed
+2020-01-08 10:22:54,330 root runEngine: starting engine_main
+2020-01-08 10:22:54,850 root egine_main: invoice is pdf
+2020-01-08 10:22:54,851 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:22:55,497 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:22:55,906 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:22:57,163 root tesseract4: starting subprocess p1
+2020-01-08 10:22:57,196 root tesseract4: starting subprocess p2
+2020-01-08 10:22:57,231 root tesseract4: starting communication p2
+2020-01-08 10:23:25,343 root extract_mydata_pdf: extracting complete
+2020-01-08 10:23:25,345 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:23:25,345 root egine_main: starting get_invoicedata
+2020-01-08 10:23:27,213 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:24:45,942 root egine_main: data != None
+2020-01-08 10:24:45,943 root egine_main: get_invoicedata completed
+2020-01-08 10:24:45,944 root egine_main: starting xlsWriting
+2020-01-08 10:24:46,113 root egine_main: reading completed
+2020-01-08 10:24:47,284 root egine_main: adding data completed
+2020-01-08 10:26:06,706 root runEngine: engine started successfully
+2020-01-08 10:26:06,714 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:26:06,716 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:26:06,727 root runEngine: starting engine_preprocess
+2020-01-08 10:26:06,755 root runEngine: engine_preprocess completed
+2020-01-08 10:26:06,756 root runEngine: starting engine_main
+2020-01-08 10:26:07,851 root egine_main: invoice is pdf
+2020-01-08 10:26:07,854 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:26:08,846 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:26:09,799 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:26:12,105 root tesseract4: starting subprocess p1
+2020-01-08 10:26:12,129 root tesseract4: starting subprocess p2
+2020-01-08 10:26:12,156 root tesseract4: starting communication p2
+2020-01-08 10:27:49,362 root extract_mydata_pdf: extracting complete
+2020-01-08 10:27:49,362 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:27:49,363 root egine_main: starting get_invoicedata
+2020-01-08 10:27:50,415 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:34:13,452 root egine_main: data != None
+2020-01-08 10:34:13,454 root egine_main: get_invoicedata completed
+2020-01-08 10:34:13,455 root egine_main: starting xlsWriting
+2020-01-08 10:34:13,696 root egine_main: reading completed
+2020-01-08 10:34:15,549 root egine_main: adding data completed
+2020-01-08 10:34:16,706 root egine_main: xlsWriting completed
+2020-01-08 10:34:16,707 root runEngine: engine_main completed
+2020-01-08 10:40:19,164 root runEngine: engine started successfully
+2020-01-08 10:40:19,172 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:40:19,175 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:40:19,186 root runEngine: starting engine_preprocess
+2020-01-08 10:40:19,217 root runEngine: engine_preprocess completed
+2020-01-08 10:40:19,218 root runEngine: starting engine_main
+2020-01-08 10:40:19,492 root egine_main: invoice is pdf
+2020-01-08 10:40:19,493 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:40:20,024 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:40:20,929 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:40:23,054 root tesseract4: starting subprocess p1
+2020-01-08 10:40:23,094 root tesseract4: starting subprocess p2
+2020-01-08 10:40:23,127 root tesseract4: starting communication p2
+2020-01-08 10:41:31,303 root extract_mydata_pdf: extracting complete
+2020-01-08 10:41:31,304 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:41:31,304 root egine_main: starting get_invoicedata
+2020-01-08 10:41:34,468 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:47:42,088 root runEngine: engine started successfully
+2020-01-08 10:47:42,090 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:47:42,090 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:47:42,100 root runEngine: starting engine_preprocess
+2020-01-08 10:47:42,112 root runEngine: engine_preprocess completed
+2020-01-08 10:47:42,112 root runEngine: starting engine_main
+2020-01-08 10:47:42,114 root egine_main: invoice is pdf
+2020-01-08 10:47:42,114 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:47:42,115 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:47:42,115 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 10:47:42,812 root tesseract4: starting subprocess p1
+2020-01-08 10:47:42,836 root tesseract4: starting subprocess p2
+2020-01-08 10:47:42,853 root tesseract4: starting communication p2
+2020-01-08 10:48:04,192 root extract_mydata_pdf: extracting complete
+2020-01-08 10:48:04,192 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:48:04,192 root egine_main: starting get_invoicedata
+2020-01-08 10:48:04,193 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:48:04,195 root egine_main: data != None
+2020-01-08 10:48:04,195 root egine_main: get_invoicedata completed
+2020-01-08 10:48:04,195 root egine_main: starting xlsWriting
+2020-01-08 10:48:04,250 root egine_main: reading completed
+2020-01-08 10:48:04,254 root egine_main: adding data completed
+2020-01-08 10:48:05,027 root egine_main: xlsWriting completed
+2020-01-08 10:48:05,027 root runEngine: engine_main completed
+2020-01-08 10:52:47,419 root runEngine: engine started successfully
+2020-01-08 10:52:47,430 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:52:47,434 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:52:47,447 root runEngine: starting engine_preprocess
+2020-01-08 10:52:47,479 root runEngine: engine_preprocess completed
+2020-01-08 10:52:47,480 root runEngine: starting engine_main
+2020-01-08 10:52:48,096 root egine_main: invoice is pdf
+2020-01-08 10:52:48,097 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:52:48,767 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:52:49,573 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:52:52,663 root tesseract4: starting subprocess p1
+2020-01-08 10:52:52,703 root tesseract4: starting subprocess p2
+2020-01-08 10:52:52,735 root tesseract4: starting communication p2
+2020-01-08 10:53:17,942 root extract_mydata_pdf: extracting complete
+2020-01-08 10:53:17,943 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:53:17,944 root egine_main: starting get_invoicedata
+2020-01-08 10:53:18,841 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:54:54,690 root runEngine: engine started successfully
+2020-01-08 10:54:54,699 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:54:54,701 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:54:54,713 root runEngine: starting engine_preprocess
+2020-01-08 10:54:54,741 root runEngine: engine_preprocess completed
+2020-01-08 10:54:54,742 root runEngine: starting engine_main
+2020-01-08 10:54:55,520 root egine_main: invoice is pdf
+2020-01-08 10:54:55,522 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:54:56,218 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:54:56,944 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:54:58,997 root tesseract4: starting subprocess p1
+2020-01-08 10:54:59,033 root tesseract4: starting subprocess p2
+2020-01-08 10:54:59,067 root tesseract4: starting communication p2
+2020-01-08 10:55:22,017 root extract_mydata_pdf: extracting complete
+2020-01-08 10:55:22,018 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:55:22,018 root egine_main: starting get_invoicedata
+2020-01-08 10:55:22,877 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:55:35,609 root egine_main: data != None
+2020-01-08 10:55:35,611 root egine_main: get_invoicedata completed
+2020-01-08 10:55:35,612 root egine_main: starting xlsWriting
+2020-01-08 10:55:35,967 root egine_main: reading completed
+2020-01-08 10:55:36,004 root egine_main: adding data completed
+2020-01-08 10:55:57,366 root runEngine: engine started successfully
+2020-01-08 10:55:57,368 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:55:57,368 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:55:57,379 root runEngine: starting engine_preprocess
+2020-01-08 10:55:57,392 root runEngine: engine_preprocess completed
+2020-01-08 10:55:57,392 root runEngine: starting engine_main
+2020-01-08 10:55:57,393 root egine_main: invoice is pdf
+2020-01-08 10:55:57,393 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:55:57,393 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:55:57,393 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 10:55:58,143 root tesseract4: starting subprocess p1
+2020-01-08 10:55:58,176 root tesseract4: starting subprocess p2
+2020-01-08 10:55:58,208 root tesseract4: starting communication p2
+2020-01-08 10:56:26,570 root extract_mydata_pdf: extracting complete
+2020-01-08 10:56:26,570 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:56:26,570 root egine_main: starting get_invoicedata
+2020-01-08 10:56:26,571 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 10:56:26,573 root egine_main: data != None
+2020-01-08 10:56:26,573 root egine_main: get_invoicedata completed
+2020-01-08 10:56:26,573 root egine_main: starting xlsWriting
+2020-01-08 10:56:26,621 root egine_main: reading completed
+2020-01-08 10:56:26,622 root egine_main: adding data completed
+2020-01-08 10:56:27,356 root egine_main: xlsWriting completed
+2020-01-08 10:56:27,356 root runEngine: engine_main completed
+2020-01-08 10:59:29,334 root runEngine: engine started successfully
+2020-01-08 10:59:29,337 root runEngine: reading invoice_Path.txt completed
+2020-01-08 10:59:29,338 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 10:59:29,348 root runEngine: starting engine_preprocess
+2020-01-08 10:59:29,362 root runEngine: engine_preprocess completed
+2020-01-08 10:59:29,362 root runEngine: starting engine_main
+2020-01-08 10:59:29,581 root egine_main: invoice is pdf
+2020-01-08 10:59:29,582 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 10:59:30,011 root extract_mydata_pdf: start extract data to string
+2020-01-08 10:59:30,497 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 10:59:31,692 root tesseract4: starting subprocess p1
+2020-01-08 10:59:31,715 root tesseract4: starting subprocess p2
+2020-01-08 10:59:31,747 root tesseract4: starting communication p2
+2020-01-08 10:59:52,618 root extract_mydata_pdf: extracting complete
+2020-01-08 10:59:52,618 root egine_main: extract_mydata_pdf completed
+2020-01-08 10:59:52,618 root egine_main: starting get_invoicedata
+2020-01-08 10:59:53,132 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 11:00:44,004 root runEngine: engine started successfully
+2020-01-08 11:00:44,005 root runEngine: reading invoice_Path.txt completed
+2020-01-08 11:00:44,005 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 11:00:44,016 root runEngine: starting engine_preprocess
+2020-01-08 11:00:44,028 root runEngine: engine_preprocess completed
+2020-01-08 11:00:44,028 root runEngine: starting engine_main
+2020-01-08 11:00:44,028 root egine_main: invoice is pdf
+2020-01-08 11:00:44,029 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 11:00:44,029 root extract_mydata_pdf: start extract data to string
+2020-01-08 11:00:44,029 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 11:00:44,882 root tesseract4: starting subprocess p1
+2020-01-08 11:00:44,909 root tesseract4: starting subprocess p2
+2020-01-08 11:00:44,930 root tesseract4: starting communication p2
+2020-01-08 11:01:08,316 root extract_mydata_pdf: extracting complete
+2020-01-08 11:01:08,316 root egine_main: extract_mydata_pdf completed
+2020-01-08 11:01:08,317 root egine_main: starting get_invoicedata
+2020-01-08 11:01:08,318 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 11:01:08,321 root egine_main: data != None
+2020-01-08 11:01:08,321 root egine_main: get_invoicedata completed
+2020-01-08 11:01:08,321 root egine_main: starting xlsWriting
+2020-01-08 11:01:08,377 root egine_main: reading completed
+2020-01-08 11:01:08,379 root egine_main: adding data completed
+2020-01-08 11:01:09,147 root egine_main: xlsWriting completed
+2020-01-08 11:01:09,148 root runEngine: engine_main completed
+2020-01-08 11:02:51,846 root runEngine: engine started successfully
+2020-01-08 11:03:26,637 root runEngine: reading invoice_Path.txt completed
+2020-01-08 11:03:26,640 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 11:03:26,651 root runEngine: starting engine_preprocess
+2020-01-08 11:06:50,088 root runEngine: engine_preprocess completed
+2020-01-08 11:06:50,089 root runEngine: starting engine_main
+2020-01-08 11:07:19,474 root egine_main: invoice is pdf
+2020-01-08 11:07:20,799 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 11:07:27,227 root extract_mydata_pdf: start extract data to string
+2020-01-08 11:07:29,017 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 11:07:32,731 root tesseract4: starting subprocess p1
+2020-01-08 11:07:32,763 root tesseract4: starting subprocess p2
+2020-01-08 11:07:32,793 root tesseract4: starting communication p2
+2020-01-08 11:08:01,234 root extract_mydata_pdf: extracting complete
+2020-01-08 11:08:01,234 root egine_main: extract_mydata_pdf completed
+2020-01-08 11:08:01,236 root egine_main: starting get_invoicedata
+2020-01-08 11:08:03,673 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 11:08:14,014 root egine_main: data != None
+2020-01-08 11:08:14,015 root egine_main: get_invoicedata completed
+2020-01-08 11:08:14,015 root egine_main: starting xlsWriting
+2020-01-08 11:08:14,159 root egine_main: reading completed
+2020-01-08 11:08:15,576 root egine_main: adding data completed
+2020-01-08 11:08:16,560 root egine_main: xlsWriting completed
+2020-01-08 11:08:16,561 root egine_main: invoice is pdf
+2020-01-08 11:08:16,561 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 11:08:18,320 root extract_mydata_pdf: start extract data to string
+2020-01-08 11:08:19,136 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 11:08:20,944 root tesseract4: starting subprocess p1
+2020-01-08 11:08:20,974 root tesseract4: starting subprocess p2
+2020-01-08 11:08:21,005 root tesseract4: starting communication p2
+2020-01-08 11:08:50,237 root extract_mydata_pdf: extracting complete
+2020-01-08 11:08:50,238 root egine_main: extract_mydata_pdf completed
+2020-01-08 11:08:50,238 root egine_main: starting get_invoicedata
+2020-01-08 11:08:50,241 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 11:11:35,144 root runEngine: engine started successfully
+2020-01-08 11:11:35,148 root runEngine: reading invoice_Path.txt completed
+2020-01-08 11:11:35,150 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 11:11:35,161 root runEngine: starting engine_preprocess
+2020-01-08 11:11:35,711 root runEngine: engine_preprocess completed
+2020-01-08 11:11:35,712 root runEngine: starting engine_main
+2020-01-08 11:11:39,809 root egine_main: invoice is pdf
+2020-01-08 11:11:39,811 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 11:11:42,543 root extract_mydata_pdf: start extract data to string
+2020-01-08 11:11:43,693 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 11:11:46,381 root tesseract4: starting subprocess p1
+2020-01-08 11:11:46,413 root tesseract4: starting subprocess p2
+2020-01-08 11:11:46,441 root tesseract4: starting communication p2
+2020-01-08 11:12:11,739 root extract_mydata_pdf: extracting complete
+2020-01-08 11:12:13,752 root egine_main: extract_mydata_pdf completed
+2020-01-08 11:12:15,866 root egine_main: starting get_invoicedata
+2020-01-08 11:12:16,800 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 11:12:17,757 root egine_main: data != None
+2020-01-08 11:12:18,390 root egine_main: get_invoicedata completed
+2020-01-08 11:12:31,854 root egine_main: starting xlsWriting
+2020-01-08 11:12:35,590 root egine_main: reading completed
+2020-01-08 11:12:37,436 root egine_main: adding data completed
+2020-01-08 11:12:38,324 root egine_main: xlsWriting completed
+2020-01-08 11:12:38,325 root egine_main: invoice is pdf
+2020-01-08 11:12:38,326 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 11:12:51,551 root extract_mydata_pdf: start extract data to string
+2020-01-08 11:12:53,499 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 11:12:55,848 root tesseract4: starting subprocess p1
+2020-01-08 11:12:55,902 root tesseract4: starting subprocess p2
+2020-01-08 11:12:55,924 root tesseract4: starting communication p2
+2020-01-08 11:13:22,869 root extract_mydata_pdf: extracting complete
+2020-01-08 11:13:22,870 root egine_main: extract_mydata_pdf completed
+2020-01-08 11:13:22,871 root egine_main: starting get_invoicedata
+2020-01-08 11:13:32,610 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 13:19:14,412 root runEngine: engine started successfully
+2020-01-08 13:19:14,413 root runEngine: reading invoice_Path.txt completed
+2020-01-08 13:19:14,413 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 13:19:14,424 root runEngine: starting engine_preprocess
+2020-01-08 13:19:14,437 root runEngine: engine_preprocess completed
+2020-01-08 13:19:14,437 root runEngine: starting engine_main
+2020-01-08 13:19:14,440 root egine_main: invoice is pdf
+2020-01-08 13:19:14,440 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 13:19:14,440 root extract_mydata_pdf: start extract data to string
+2020-01-08 13:19:14,440 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 13:19:15,198 root tesseract4: starting subprocess p1
+2020-01-08 13:19:15,222 root tesseract4: starting subprocess p2
+2020-01-08 13:19:15,252 root tesseract4: starting communication p2
+2020-01-08 13:19:44,450 root extract_mydata_pdf: extracting complete
+2020-01-08 13:19:44,451 root egine_main: extract_mydata_pdf completed
+2020-01-08 13:19:44,451 root egine_main: starting get_invoicedata
+2020-01-08 13:19:44,452 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 13:19:44,455 root egine_main: data != None
+2020-01-08 13:19:44,455 root egine_main: get_invoicedata completed
+2020-01-08 13:19:44,455 root egine_main: starting xlsWriting
+2020-01-08 13:19:44,516 root egine_main: reading completed
+2020-01-08 13:19:44,518 root egine_main: adding data completed
+2020-01-08 13:19:45,679 root egine_main: xlsWriting completed
+2020-01-08 13:19:45,680 root egine_main: invoice is pdf
+2020-01-08 13:19:45,680 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 13:19:45,680 root extract_mydata_pdf: start extract data to string
+2020-01-08 13:19:45,680 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 13:19:46,913 root tesseract4: starting subprocess p1
+2020-01-08 13:19:46,940 root tesseract4: starting subprocess p2
+2020-01-08 13:19:46,964 root tesseract4: starting communication p2
+2020-01-08 13:20:13,800 root extract_mydata_pdf: extracting complete
+2020-01-08 13:20:13,800 root egine_main: extract_mydata_pdf completed
+2020-01-08 13:20:13,800 root egine_main: starting get_invoicedata
+2020-01-08 13:20:13,801 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 13:20:13,803 root egine_main: data != None
+2020-01-08 13:20:13,803 root egine_main: get_invoicedata completed
+2020-01-08 13:20:13,803 root egine_main: starting xlsWriting
+2020-01-08 13:20:13,810 root egine_main: reading completed
+2020-01-08 13:20:13,814 root egine_main: adding data completed
+2020-01-08 13:20:13,832 root egine_main: xlsWriting completed
+2020-01-08 13:20:13,832 root runEngine: engine_main completed
+2020-01-08 13:22:03,909 root runEngine: engine started successfully
+2020-01-08 13:22:03,913 root runEngine: reading invoice_Path.txt completed
+2020-01-08 13:22:03,914 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 13:22:03,925 root runEngine: starting engine_preprocess
+2020-01-08 13:22:04,342 root runEngine: engine_preprocess completed
+2020-01-08 13:22:04,342 root runEngine: starting engine_main
+2020-01-08 13:22:05,422 root egine_main: invoice is pdf
+2020-01-08 13:22:05,423 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 13:22:07,222 root extract_mydata_pdf: start extract data to string
+2020-01-08 13:22:07,223 root tesseract4: starting extracting application_path: c:\invoiceFeatureExtraction-master
+2020-01-08 13:22:09,392 root tesseract4: starting subprocess p1
+2020-01-08 13:22:09,411 root tesseract4: starting subprocess p2
+2020-01-08 13:22:09,433 root tesseract4: starting communication p2
+2020-01-08 13:28:40,469 root runEngine: engine started successfully
+2020-01-08 13:28:40,470 root runEngine: reading invoice_Path.txt completed
+2020-01-08 13:28:40,470 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 13:28:40,481 root runEngine: starting engine_preprocess
+2020-01-08 13:28:40,494 root runEngine: engine_preprocess completed
+2020-01-08 13:28:40,494 root runEngine: starting engine_main
+2020-01-08 13:28:40,495 root egine_main: invoice is pdf
+2020-01-08 13:28:40,495 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 13:28:40,495 root extract_mydata_pdf: start extract data to string
+2020-01-08 13:28:40,496 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 13:28:41,695 root tesseract4: starting subprocess p1
+2020-01-08 13:28:41,721 root tesseract4: starting subprocess p2
+2020-01-08 13:28:41,742 root tesseract4: starting communication p2
+2020-01-08 13:29:04,994 root extract_mydata_pdf: extracting complete
+2020-01-08 13:29:04,994 root egine_main: extract_mydata_pdf completed
+2020-01-08 13:29:04,994 root egine_main: starting get_invoicedata
+2020-01-08 13:29:04,996 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 13:29:04,998 root egine_main: data != None
+2020-01-08 13:29:04,998 root egine_main: get_invoicedata completed
+2020-01-08 13:29:04,998 root egine_main: starting xlsWriting
+2020-01-08 13:29:05,053 root egine_main: reading completed
+2020-01-08 13:29:05,055 root egine_main: adding data completed
+2020-01-08 13:29:05,870 root egine_main: xlsWriting completed
+2020-01-08 13:29:05,871 root runEngine: engine_main completed
+2020-01-08 13:30:56,226 root runEngine: engine started successfully
+2020-01-08 13:30:56,227 root runEngine: reading invoice_Path.txt completed
+2020-01-08 13:30:56,227 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 13:30:56,238 root runEngine: starting engine_preprocess
+2020-01-08 13:30:56,251 root runEngine: engine_preprocess completed
+2020-01-08 13:30:56,251 root runEngine: starting engine_main
+2020-01-08 13:30:56,252 root egine_main: invoice is pdf
+2020-01-08 13:30:56,252 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 13:30:56,252 root extract_mydata_pdf: start extract data to string
+2020-01-08 13:30:56,253 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 13:30:57,388 root tesseract4: starting subprocess p1
+2020-01-08 13:30:57,405 root tesseract4: starting subprocess p2
+2020-01-08 13:30:57,427 root tesseract4: starting communication p2
+2020-01-08 13:31:20,606 root extract_mydata_pdf: extracting complete
+2020-01-08 13:31:20,607 root egine_main: extract_mydata_pdf completed
+2020-01-08 13:31:20,607 root egine_main: starting get_invoicedata
+2020-01-08 13:31:20,608 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 13:31:20,610 root egine_main: data != None
+2020-01-08 13:31:20,611 root egine_main: get_invoicedata completed
+2020-01-08 13:31:20,611 root egine_main: starting xlsWriting
+2020-01-08 13:31:20,683 root egine_main: reading completed
+2020-01-08 13:31:20,686 root egine_main: adding data completed
+2020-01-08 13:31:21,432 root egine_main: xlsWriting completed
+2020-01-08 13:31:21,433 root egine_main: invoice is pdf
+2020-01-08 13:31:21,433 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 13:31:21,433 root extract_mydata_pdf: start extract data to string
+2020-01-08 13:31:21,433 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 13:31:22,172 root tesseract4: starting subprocess p1
+2020-01-08 13:31:22,194 root tesseract4: starting subprocess p2
+2020-01-08 13:31:22,217 root tesseract4: starting communication p2
+2020-01-08 13:31:43,258 root extract_mydata_pdf: extracting complete
+2020-01-08 13:31:43,258 root egine_main: extract_mydata_pdf completed
+2020-01-08 13:31:43,259 root egine_main: starting get_invoicedata
+2020-01-08 13:31:43,260 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 13:31:43,262 root egine_main: data != None
+2020-01-08 13:31:43,262 root egine_main: get_invoicedata completed
+2020-01-08 13:31:43,262 root egine_main: starting xlsWriting
+2020-01-08 13:31:43,273 root egine_main: reading completed
+2020-01-08 13:31:43,277 root egine_main: adding data completed
+2020-01-08 13:31:43,306 root egine_main: xlsWriting completed
+2020-01-08 13:31:43,307 root runEngine: engine_main completed
+2020-01-08 16:22:38,652 root runEngine: engine started successfully
+2020-01-08 16:22:38,653 root runEngine: reading invoice_Path.txt completed
+2020-01-08 16:22:38,653 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 16:22:38,663 root runEngine: starting engine_preprocess
+2020-01-08 16:22:38,674 root runEngine: engine_preprocess completed
+2020-01-08 16:22:38,674 root runEngine: starting engine_main
+2020-01-08 16:22:38,674 root egine_main: invoice is pdf
+2020-01-08 16:22:38,674 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 16:22:38,674 root extract_mydata_pdf: start extract data to string
+2020-01-08 16:22:38,674 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 16:22:39,041 root tesseract4: starting subprocess p1
+2020-01-08 16:22:39,055 root tesseract4: starting subprocess p2
+2020-01-08 16:22:39,068 root tesseract4: starting communication p2
+2020-01-08 16:22:55,985 root extract_mydata_pdf: extracting complete
+2020-01-08 16:22:55,985 root egine_main: extract_mydata_pdf completed
+2020-01-08 16:22:55,985 root egine_main: starting get_invoicedata
+2020-01-08 16:22:55,987 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 16:22:55,993 root egine_main: data != None
+2020-01-08 16:22:55,993 root egine_main: get_invoicedata completed
+2020-01-08 16:22:55,993 root egine_main: starting xlsWriting
+2020-01-08 16:22:56,020 root egine_main: reading completed
+2020-01-08 16:22:56,021 root egine_main: adding data completed
+2020-01-08 16:22:56,485 root egine_main: xlsWriting completed
+2020-01-08 16:22:56,486 root egine_main: invoice is pdf
+2020-01-08 16:22:56,486 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 16:22:56,486 root extract_mydata_pdf: start extract data to string
+2020-01-08 16:22:56,486 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 16:22:57,053 root tesseract4: starting subprocess p1
+2020-01-08 16:22:57,064 root tesseract4: starting subprocess p2
+2020-01-08 16:22:57,074 root tesseract4: starting communication p2
+2020-01-08 16:23:15,861 root extract_mydata_pdf: extracting complete
+2020-01-08 16:23:15,862 root egine_main: extract_mydata_pdf completed
+2020-01-08 16:23:15,862 root egine_main: starting get_invoicedata
+2020-01-08 16:23:15,863 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 16:23:15,868 root egine_main: data != None
+2020-01-08 16:23:15,869 root egine_main: get_invoicedata completed
+2020-01-08 16:23:15,869 root egine_main: starting xlsWriting
+2020-01-08 16:23:15,875 root egine_main: reading completed
+2020-01-08 16:23:15,876 root egine_main: adding data completed
+2020-01-08 16:23:15,895 root egine_main: xlsWriting completed
+2020-01-08 16:23:15,896 root runEngine: engine_main completed
+2020-01-08 16:36:30,739 root runEngine: engine started successfully
+2020-01-08 16:36:30,740 root runEngine: reading invoice_Path.txt completed
+2020-01-08 16:36:30,740 root runEngine: sorting invoicepath, invoicename, destinationpath completed
+2020-01-08 16:36:30,750 root runEngine: starting engine_preprocess
+2020-01-08 16:36:30,761 root runEngine: engine_preprocess completed
+2020-01-08 16:36:30,761 root runEngine: starting engine_main
+2020-01-08 16:36:30,761 root egine_main: invoice is pdf
+2020-01-08 16:36:30,761 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+2020-01-08 16:36:30,761 root extract_mydata_pdf: start extract data to string
+2020-01-08 16:36:30,761 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 16:36:31,132 root tesseract4: starting subprocess p1
+2020-01-08 16:36:31,145 root tesseract4: starting subprocess p2
+2020-01-08 16:36:31,158 root tesseract4: starting communication p2
+2020-01-08 16:36:48,454 root extract_mydata_pdf: extracting complete
+2020-01-08 16:36:48,454 root egine_main: extract_mydata_pdf completed
+2020-01-08 16:36:48,454 root egine_main: starting get_invoicedata
+2020-01-08 16:36:48,456 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 16:36:48,459 root egine_main: data != None
+2020-01-08 16:36:48,459 root egine_main: get_invoicedata completed
+2020-01-08 16:36:48,460 root egine_main: starting xlsWriting
+2020-01-08 16:36:48,500 root egine_main: reading completed
+2020-01-08 16:36:48,501 root egine_main: adding data completed
+2020-01-08 16:36:49,000 root egine_main: xlsWriting completed
+2020-01-08 16:36:49,001 root egine_main: invoice is pdf
+2020-01-08 16:36:49,001 root egine_main: starting extract_mydata_pdf with pdf: C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+2020-01-08 16:36:49,001 root extract_mydata_pdf: start extract data to string
+2020-01-08 16:36:49,001 root tesseract4: starting extracting application_path: C:\invoiceFeatureExtraction-master
+2020-01-08 16:36:49,567 root tesseract4: starting subprocess p1
+2020-01-08 16:36:49,576 root tesseract4: starting subprocess p2
+2020-01-08 16:36:49,588 root tesseract4: starting communication p2
+2020-01-08 16:37:08,624 root extract_mydata_pdf: extracting complete
+2020-01-08 16:37:08,624 root egine_main: extract_mydata_pdf completed
+2020-01-08 16:37:08,624 root egine_main: starting get_invoicedata
+2020-01-08 16:37:08,626 root get_invoicedata: can not open template: .DS_Store
+2020-01-08 16:37:08,630 root egine_main: data != None
+2020-01-08 16:37:08,630 root egine_main: get_invoicedata completed
+2020-01-08 16:37:08,630 root egine_main: starting xlsWriting
+2020-01-08 16:37:08,638 root egine_main: reading completed
+2020-01-08 16:37:08,641 root egine_main: adding data completed
+2020-01-08 16:37:08,657 root egine_main: xlsWriting completed
+2020-01-08 16:37:08,657 root runEngine: engine_main completed

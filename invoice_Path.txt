@@ -1,0 +1,8 @@
+invoice_path:
+C:\invoiceFeatureExtraction-master\002_invoice\Rechnung-Muster-1.pdf
+C:\invoiceFeatureExtraction-master\002_invoice\rechnungsvorlage-2019.pdf
+invoice_name:
+Rechnung-Muster-1.pdf
+rechnungsvorlage-2019.pdf
+destination_path:
+C:\Users\JWIESSL/Desktop/out.xlsx
