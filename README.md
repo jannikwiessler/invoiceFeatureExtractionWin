@@ -15,6 +15,7 @@ The softwares architecture consists of only 2 layers: 1.) Gui, 2.) Engine.
 
 Thus one need to build the package in two steps:
 
+- (0) Tesseract OCR: download and place in same folder as the code files (too large to upload on github - dont forget the dlls).
 - (1) GUI: pyinstaller invoiceExtractGUI.py --onefile --windowed (complete build up takes about <1min)
 - (2) Engine: pyinstaller runEngine.py --windowed --onefile (complete build up takes about >5min)
 
